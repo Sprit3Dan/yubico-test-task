@@ -1,0 +1,9 @@
+.product-item-wrapper {
+    border-bottom: 1px black solid;
+    padding: 8px 0;
+    width: 100%;
+}
+
+.product-item-wrapper a {
+    text-decoration: none;
+}

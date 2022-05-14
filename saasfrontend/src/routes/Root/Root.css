@@ -1,0 +1,10 @@
+.root-wrapper {
+  height: 100vh;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+}
+
+.main-content-wrapper {
+  flex: 1;
+}
